@@ -1,0 +1,29 @@
+dash_table_experiments
+dash_labs
+dash-bootstrap-templates
+seaborn
+dash
+dash_bootstrap_components
+dash_core_components
+dash_html_components
+pandas
+plotly
+sklearn
+google_trans_new
+pyjokes
+dash_daq
+jupyter_dash
+tweepy
+nltk
+pyLDAvis
+print_function
+#Otros por commands::
+#python3 -m nltk.downloader stopwords
+# pip install wordcloud
+# pip install matplotlib
+#pip install tinycss2
+#pip install spectra
+folium
+
+
+
